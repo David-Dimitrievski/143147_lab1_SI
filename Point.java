@@ -57,3 +57,14 @@ class Point {
 
 
 }
+class Canvas {
+	List Points=new ArrayList<>
+
+	public List getPoints() {
+		return Points;
+	}
+
+	public void move ()
+	public void add ()
+	public void remove ()
+		}
